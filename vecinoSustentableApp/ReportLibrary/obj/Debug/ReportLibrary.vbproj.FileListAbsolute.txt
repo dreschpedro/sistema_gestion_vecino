@@ -1,0 +1,15 @@
+D:\REPOSITORIOS\proyecto_vecino2\programacion_bd\vecinoSustentableApp\ReportLibrary\bin\Debug\ReportLibrary.dll.config
+D:\REPOSITORIOS\proyecto_vecino2\programacion_bd\vecinoSustentableApp\ReportLibrary\bin\Debug\ReportLibrary.dll
+D:\REPOSITORIOS\proyecto_vecino2\programacion_bd\vecinoSustentableApp\ReportLibrary\bin\Debug\ReportLibrary.pdb
+D:\REPOSITORIOS\proyecto_vecino2\programacion_bd\vecinoSustentableApp\ReportLibrary\bin\Debug\ReportLibrary.xml
+D:\REPOSITORIOS\proyecto_vecino2\programacion_bd\vecinoSustentableApp\ReportLibrary\bin\Debug\Telerik.Reporting.pdb
+D:\REPOSITORIOS\proyecto_vecino2\programacion_bd\vecinoSustentableApp\ReportLibrary\bin\Debug\Telerik.Reporting.xml
+D:\REPOSITORIOS\proyecto_vecino2\programacion_bd\vecinoSustentableApp\ReportLibrary\obj\Debug\ReportLibrary.vbproj.AssemblyReference.cache
+D:\REPOSITORIOS\proyecto_vecino2\programacion_bd\vecinoSustentableApp\ReportLibrary\obj\Debug\ReportLibrary.Report1.resources
+D:\REPOSITORIOS\proyecto_vecino2\programacion_bd\vecinoSustentableApp\ReportLibrary\obj\Debug\ReportLibrary.vbproj.GenerateResource.cache
+D:\REPOSITORIOS\proyecto_vecino2\programacion_bd\vecinoSustentableApp\ReportLibrary\obj\Debug\ReportLibrary.dll.licenses
+D:\REPOSITORIOS\proyecto_vecino2\programacion_bd\vecinoSustentableApp\ReportLibrary\obj\Debug\ReportLibrary.vbproj.CoreCompileInputs.cache
+D:\REPOSITORIOS\proyecto_vecino2\programacion_bd\vecinoSustentableApp\ReportLibrary\obj\Debug\ReportLibrary.vbproj.CopyComplete
+D:\REPOSITORIOS\proyecto_vecino2\programacion_bd\vecinoSustentableApp\ReportLibrary\obj\Debug\ReportLibrary.dll
+D:\REPOSITORIOS\proyecto_vecino2\programacion_bd\vecinoSustentableApp\ReportLibrary\obj\Debug\ReportLibrary.xml
+D:\REPOSITORIOS\proyecto_vecino2\programacion_bd\vecinoSustentableApp\ReportLibrary\obj\Debug\ReportLibrary.pdb

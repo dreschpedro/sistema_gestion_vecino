@@ -1,0 +1,7 @@
+*config usuario --> boton buscar eliminado, en su lugar el BOTON LIMPIAR
+
+*agregado rol "Administrador" ---> el unico que puede modificar datos sensibles
+
+*corregido bug del login
+
+*se guarda el rol del usuario al ingresar
